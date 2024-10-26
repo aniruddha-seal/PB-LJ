@@ -4,7 +4,7 @@ This repository contains MATLAB codes demonstrating the incorporation of van der
 
 ## Software Requirements
 
-- **MATLAB**
+- MATLAB
 
 ## Available Codes
 
