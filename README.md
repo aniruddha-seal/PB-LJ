@@ -1,6 +1,6 @@
 # PB-LJ EDL Model
 
-This repository contains MATLAB codes demonstrating the incorporation of van der Waals and soft repulsive interactions into a Poisson-Boltzmann framework, as developed in the study: [Incorporating Ion-Specific van der Waals and Soft Repulsive Interactions in the Poisson-Boltzmann Theory of Electrical Double Layers](http://dx.doi.org/10.1039/D3CP00745F).
+This repository contains codes demonstrating the incorporation of van der Waals and soft repulsive interactions into a Poisson-Boltzmann framework, as developed in the study: [Incorporating Ion-Specific van der Waals and Soft Repulsive Interactions in the Poisson-Boltzmann Theory of Electrical Double Layers](http://dx.doi.org/10.1039/D3CP00745F).
 
 ## Software Requirements
 
