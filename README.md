@@ -9,7 +9,7 @@ This repository contains codes demonstrating the incorporation of van der Waals 
 ## Available Codes
 
 1. **`ion_wall_code`**  
-   This code solves for the potential and ionic concentration profiles inside an electrical double layer (EDL) considering ion-wall interactions. For a version of the ion-wall PB-LJ code without the approximation \((u^{iw}_{LJ}(L/2) \approx 0)\), please refer to the version in the `Comparison_Aluru` folder.
+   This code solves for the potential and ionic concentration profiles inside an electrical double layer (EDL) considering ion-wall interactions. For a version of the ion-wall PB-LJ code without the approximation ($u^{iw}_{LJ}(L/2) ≈ 0$), please refer to the version in the `Comparison_Aluru` folder.
 
 2. **`ion_ion_code_both.m`**  
    This code calculates the potential and ionic concentration profiles inside an EDL, including both ion-ion and ion-wall interactions.
